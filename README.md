@@ -1,9 +1,32 @@
 # vision_language
 
+[Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/pdf/2302.14045.pdf)
+
+[]()
+[]()
+[]()
+[]()
+
+# DETR Series
+[DETR, End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872)
+
+[Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://arxiv.org/abs/2010.04159)
+
+[DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection](https://arxiv.org/abs/2203.03605)
+
+[DN-DETR: Accelerate DETR Training by Introducing Query DeNoising](https://arxiv.org/abs/2203.01305)
+
+[DETA, NMS strikes back](https://arxiv.org/abs/2212.06137)
+
+
+
 # video & tracking
 [Divert More Attention to Vision-Language Tracking](https://arxiv.org/pdf/2207.01076.pdf)
+
 [Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Towards_More_Flexible_and_Accurate_Object_Tracking_With_Natural_Language_CVPR_2021_paper.pdf) CVPR2021, 
+
 [Real-time Visual Object Tracking with Natural Language Description](https://openaccess.thecvf.com/content_WACV_2020/papers/Feng_Real-time_Visual_Object_Tracking_with_Natural_Language_Description_WACV_2020_paper.pdf)
+
 [Exploiting Unlabeled Data with Vision and Language Models for Object Detection](https://arxiv.org/pdf/2207.08954)
 
 
