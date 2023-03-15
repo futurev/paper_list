@@ -17,6 +17,7 @@
 [DN-DETR: Accelerate DETR Training by Introducing Query DeNoising](https://arxiv.org/abs/2203.01305)
 
 [DETA, NMS strikes back](https://arxiv.org/abs/2212.06137)
+[DETRs with Collaborative Hybrid Assignments Training](https://arxiv.org/pdf/2211.12860v2.pdf)
 
 
 
